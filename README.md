@@ -7,5 +7,5 @@ https://www.youtube.com/@AdrienLinuxtricks <br />
 Commandes utiles :
 
 Pour voir quelle clé de configurations du schema est modifiée lors d'une modification de l'environnement graphique. <br />
-> dconf watch /
+``` dconf watch / ```
 
